@@ -1,9 +1,9 @@
 /* Import the font if not added in HTML */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;600&display=swap');
 
 /* General Styles */
 body {
-    font-family: 'Poppins', sans-serif; /* Apply the new font here */
+    font-family: 'Quicksand', sans-serif; /* Apply the new font here */
     margin: 0;
     padding: 0;
     background-color: #f9f9f9;
@@ -12,7 +12,7 @@ body {
 }
 
 header {
-    background-color: #007acc;
+    background-color: #add8e6;
     color: #fff;
     padding: 1rem 0;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
